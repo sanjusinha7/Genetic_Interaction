@@ -1,6 +1,7 @@
 #This script predicts genetic interations using GO realtions as features.
 #Sanju Sinha
 
+#This script can only be run if you are on CBCB, University of Maryland server. Else, the files needed is not accessible.
 #Loading required Libraries
 require(ranger)
 require(randomForest)
